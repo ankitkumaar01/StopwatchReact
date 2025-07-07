@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StopwatchReact/static/css/main.f705f866.css",
+    "main.js": "/StopwatchReact/static/js/main.7e985758.js",
+    "index.html": "/StopwatchReact/index.html",
+    "main.f705f866.css.map": "/StopwatchReact/static/css/main.f705f866.css.map",
+    "main.7e985758.js.map": "/StopwatchReact/static/js/main.7e985758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f705f866.css",
+    "static/js/main.7e985758.js"
+  ]
+}
